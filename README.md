@@ -13,7 +13,7 @@ In order to correctly access the content of the packages, upon unpacking move th
  
  The following free-to-use packs are used in this project:
  
-- https://www.unrealengine.com/marketplace/en-US/product/twinmotion-materials?sessionInvalidated=true
+- https://www.unrealengine.com/marketplace/en-US/product/twinmotion-materials
 
 - https://www.unrealengine.com/marketplace/en-US/product/polar-sci-fi-facility
 
