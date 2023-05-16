@@ -9,7 +9,8 @@
  
  ### NOTE: 
  
-In order to correctly access the content of the packages, upon unpacking move the TwinmotionMaterials directory to the \Content\ directory.
+ - In order to correctly access the content of the packages, upon unpacking move the TwinmotionMaterials directory to the \Content\ directory.
+ - You might have to rebuild the project using IDE
  
  The following free-to-use packs are used in this project:
  
