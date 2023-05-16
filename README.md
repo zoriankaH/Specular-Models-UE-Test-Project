@@ -7,7 +7,7 @@
  
  Packaged tests (for Windows platform) with different models, alongside the additional packages used in the test scenes, can be accessed via the link: https://drive.google.com/drive/folders/10aN8W07KNxoGnAUfh9UbHqjn9QzeanjK?usp=sharing
  
- ##NOTE: 
+ ## NOTE: 
  
 In order to correctly access the content of the packages, upon unpacking move the TwinmotionMaterials directory to the \Content\ directory.
  
